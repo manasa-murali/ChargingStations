@@ -49,6 +49,8 @@ class StationFragment : Fragment(R.layout.fragment_station) {
                         view.findViewById<TextView>(R.id.error_text).visibility = View.VISIBLE
                     }
                     MyUIState.Initial -> {
+                        recyclerView.visibility = View.GONE
+                        view.findViewById<TextView>(R.id.error_text).visibility = View.GONE
                         viewModel.loadStationData(distance, userLocation)
                         startRefreshTimer()
                     }

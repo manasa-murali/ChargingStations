@@ -63,13 +63,13 @@ class StationAdapter(private var uiDataList: ArrayList<MyUIData>) :
     }
 
     class StationViewHolder(itemView: View) : ViewHolder(itemView) {
-        val address = itemView.findViewById<TextView>(R.id.address)
-        val stationLat = itemView.findViewById<TextView>(R.id.stationLat)
-        val stationLong = itemView.findViewById<TextView>(R.id.stationLong)
-        val distance = itemView.findViewById<TextView>(R.id.distance)
-        val stationName = itemView.findViewById<TextView>(R.id.stationName)
-        val isOperational = itemView.findViewById<TextView>(R.id.isoperational)
-        val connectionCount = itemView.findViewById<TextView>(R.id.connectionCount)
+        val address: TextView = itemView.findViewById(R.id.address)
+        val stationLat: TextView = itemView.findViewById(R.id.stationLat)
+        val stationLong: TextView = itemView.findViewById(R.id.stationLong)
+        val distance: TextView = itemView.findViewById(R.id.distance)
+        val stationName: TextView = itemView.findViewById(R.id.stationName)
+        val isOperational: TextView = itemView.findViewById(R.id.isoperational)
+        val connectionCount: TextView = itemView.findViewById(R.id.connectionCount)
 
     }
 }
