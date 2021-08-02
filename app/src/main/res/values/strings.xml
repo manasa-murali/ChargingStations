@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ChargingStations</string>
+    <string name="address">Address :</string>
+    <string name="latitude">Latitude :</string>
+    <string name="longitude">Longitude :</string>
+    <string name="distance">Distance :</string>
+    <string name="stationName">Station Name :</string>
+    <string name="isOperational">Is Operational :</string>
+    <string name="connectionCount">No of Connections :</string>
+    <string name="errorMessage">Network Error</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/stationFragment">
+
+    <fragment
+        android:id="@+id/stationFragment"
+        android:name="com.example.chargingstations.view.StationFragment"
+        android:label="fragment_station"
+        tools:layout="@layout/fragment_station" />
+</navigation>

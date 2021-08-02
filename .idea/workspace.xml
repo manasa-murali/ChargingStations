@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+    <option name="TOOL_WINDOW_REGEXP_FILTER" value="false" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2787daba-2137-4d3f-a9c4-cd3fb60f5e25" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[SerialNumber@HT73F0202349]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ChargingStations" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ChargingStations" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ChargingStations" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Kotlin Object" />
+        <option value="Kotlin Data Class" />
+        <option value="Kotlin Class" />
+        <option value="navigationResourceFile" />
+        <option value="layoutResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1vcLfr6Zsrek3sAheNfOyY70wOf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="VirtualDevicePath@/Users/manasa-5113/.android/avd/Pixel_2_XL_API_29.avd" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-07-24T13:17:33.540162Z" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/androidTest/java/com/example/chargingstations" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="memory.settings.postsync.last.time.stamp" value="1627901199803" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.example.chargingstations.viewmodel" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.example.chargingstations.view" />
+      <recent name="com.example.chargingstations.viewmodel" />
+      <recent name="com.example.chargingstations.model" />
+      <recent name="com.example.chargingstations" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.example.chargingstations" />
+      <recent name="com.example.chargingstations.repository" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration name="StationViewModelTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ChargingStations.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.chargingstations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.chargingstations" />
+      <option name="MAIN_CLASS_NAME" value="com.example.chargingstations.StationViewModelTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StationViewModelTest.test Failure State" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ChargingStations.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.chargingstations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.chargingstations" />
+      <option name="MAIN_CLASS_NAME" value="com.example.chargingstations.StationViewModelTest" />
+      <option name="METHOD_NAME" value="test Failure State" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StationViewModelTest.test Loading State" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ChargingStations.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.chargingstations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.chargingstations" />
+      <option name="MAIN_CLASS_NAME" value="com.example.chargingstations.StationViewModelTest" />
+      <option name="METHOD_NAME" value="test Loading State" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StationViewModelTest.test for Refresh" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ChargingStations.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.chargingstations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.chargingstations" />
+      <option name="MAIN_CLASS_NAME" value="com.example.chargingstations.StationViewModelTest" />
+      <option name="METHOD_NAME" value="test for Refresh" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StationViewModelTest.test if data is parsed right from Network" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ChargingStations.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.chargingstations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.chargingstations" />
+      <option name="MAIN_CLASS_NAME" value="com.example.chargingstations.StationViewModelTest" />
+      <option name="METHOD_NAME" value="test if data is parsed right from Network" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="ChargingStations.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit.StationViewModelTest" />
+        <item itemvalue="Android JUnit.StationViewModelTest.test for Refresh" />
+        <item itemvalue="Android JUnit.StationViewModelTest.test Failure State" />
+        <item itemvalue="Android JUnit.StationViewModelTest.test Loading State" />
+        <item itemvalue="Android JUnit.StationViewModelTest.test if data is parsed right from Network" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2787daba-2137-4d3f-a9c4-cd3fb60f5e25" name="Default Changelist" comment="" />
+      <created>1626856537236</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626856537236</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Project init">
+      <created>1627716789135</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1627716789135</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Adding DI and App Architecture">
+      <created>1627744342076</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1627744342076</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Adding UI and StateFlow">
+      <created>1627907535181</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1627907535182</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Adding UI and StateFlow">
+      <created>1627907603687</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1627907603687</updated>
+    </task>
+    <task id="LOCAL-00005" summary="UI Fixes">
+      <created>1627909454059</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1627909454059</updated>
+    </task>
+    <task id="LOCAL-00006" summary="House Keeping">
+      <created>1627918933822</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1627918933822</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Project init" />
+    <MESSAGE value="Adding DI and App Architecture" />
+    <MESSAGE value="Adding UI and StateFlow" />
+    <MESSAGE value="UI Fixes" />
+    <MESSAGE value="House Keeping" />
+    <option name="LAST_COMMIT_MESSAGE" value="House Keeping" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="100" width="1240" height="700" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1627917026958">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1440.900@0.0.1440.900" timestamp="1627917026958" />
+    <state x="504" y="173" key="#com.intellij.ide.util.MemberChooser" timestamp="1627894434346">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="504" y="173" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1627894434346" />
+    <state x="401" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1626858250939">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="401" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.900@0.0.1440.900" timestamp="1626858250939" />
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1627917917639">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1627917917639" />
+    <state x="472" y="248" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1627917973876">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="472" y="248" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1627917973876" />
+    <state x="308" y="212" key="AndroidCreateResourceDirectoryDialog" timestamp="1627901138051">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="308" y="212" key="AndroidCreateResourceDirectoryDialog/0.0.1440.900@0.0.1440.900" timestamp="1627901138051" />
+    <state x="308" y="212" key="AndroidCreateResourceFileDialog" timestamp="1627902589602">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="308" y="212" key="AndroidCreateResourceFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1627902589602" />
+    <state x="547" y="252" key="AndroidCreateXmlResourceDialog" timestamp="1627908843588">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="547" y="252" key="AndroidCreateXmlResourceDialog/0.0.1440.900@0.0.1440.900" timestamp="1627908843588" />
+    <state x="297" y="25" key="CommitChangelistDialog2" timestamp="1627918933284">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="297" y="25" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1627918933284" />
+    <state width="658" height="439" key="DebuggerActiveHint" timestamp="1627916606924">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="658" height="439" key="DebuggerActiveHint/0.0.1440.900@0.0.1440.900" timestamp="1627916606924" />
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1627909444033">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1627909444033" />
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/64.23.1376.877@64.23.1376.877" timestamp="1627908360977" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1627918616223">
+      <screen x="64" y="23" width="1376" height="877" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1627918212986" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/64.23.1376.877@64.23.1376.877" timestamp="1627918616223" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1627918616222">
+      <screen x="64" y="23" width="1376" height="877" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1627918212984" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/64.23.1376.877@64.23.1376.877" timestamp="1627918616222" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1627918616221">
+      <screen x="64" y="23" width="1376" height="877" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1627918212983" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/64.23.1376.877@64.23.1376.877" timestamp="1627918616221" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1627918616223">
+      <screen x="64" y="23" width="1376" height="877" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1627918212985" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/64.23.1376.877@64.23.1376.877" timestamp="1627918616223" />
+    <state width="1398" height="245" key="GridCell.Tab.1.bottom" timestamp="1627916907833">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1627916907833" />
+    <state width="1398" height="245" key="GridCell.Tab.1.bottom/64.23.1376.877@64.23.1376.877" timestamp="1627898074027" />
+    <state width="1398" height="245" key="GridCell.Tab.1.center" timestamp="1627916907832">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1627916907832" />
+    <state width="1398" height="245" key="GridCell.Tab.1.center/64.23.1376.877@64.23.1376.877" timestamp="1627898074023" />
+    <state width="1398" height="245" key="GridCell.Tab.1.left" timestamp="1627916907831">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1627916907831" />
+    <state width="1398" height="245" key="GridCell.Tab.1.left/64.23.1376.877@64.23.1376.877" timestamp="1627898074022" />
+    <state width="1398" height="245" key="GridCell.Tab.1.right" timestamp="1627916907833">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1627916907833" />
+    <state width="1398" height="245" key="GridCell.Tab.1.right/64.23.1376.877@64.23.1376.877" timestamp="1627898074024" />
+    <state x="320" y="177" key="Vcs.Push.Dialog.v2" timestamp="1627918937950">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="177" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1627918937950" />
+    <state width="720" height="450" key="XDebugger.FullValuePopup" timestamp="1627916606889">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="720" height="450" key="XDebugger.FullValuePopup/0.0.1440.900@0.0.1440.900" timestamp="1627916606889" />
+    <state x="507" y="237" key="chooseDestDirectoryDialog" timestamp="1627744656654">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="507" y="237" key="chooseDestDirectoryDialog/0.0.1440.900@0.0.1440.900" timestamp="1627744656654" />
+    <state x="421" y="205" width="598" height="490" key="find.popup" timestamp="1627919241617">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="421" y="205" width="598" height="490" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1627919241617" />
+    <state x="434" y="279" width="572" height="346" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog" timestamp="1627744656709">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="434" y="279" width="572" height="346" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog/0.0.1440.900@0.0.1440.900" timestamp="1627744656709" />
+    <state x="440" y="255" width="727" height="528" key="refactoring.ChangeSignatureDialog" timestamp="1627896092396">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="440" y="255" width="727" height="528" key="refactoring.ChangeSignatureDialog/0.0.1440.900@0.0.1440.900" timestamp="1627896092396" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1627918227024">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1627918227024" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/chargingstations/view/StationFragment.kt</url>
+          <line>39</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/test/java/com/example/chargingstations/StationViewModelTest.kt</url>
+          <line>89</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/test/java/com/example/chargingstations/StationViewModelTest.kt</url>
+          <line>60</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/chargingstations/viewmodel/StationViewModel.kt</url>
+          <line>45</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ChargingStations$StationViewModelTest_test_Failure_State.ic" NAME="StationViewModelTest.test Failure State Coverage Results" MODIFIED="1627917389052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.chargingstations.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/ChargingStations$StationViewModelTest_test_for_Refresh.ic" NAME="StationViewModelTest.test for Refresh Coverage Results" MODIFIED="1627917566584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.chargingstations.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/ChargingStations$StationViewModelTest.ic" NAME="StationViewModelTest Coverage Results" MODIFIED="1627917583343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.chargingstations.*</FILTER>
+    </SUITE>
+  </component>
+</project>
